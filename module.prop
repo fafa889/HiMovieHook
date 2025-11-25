@@ -1,0 +1,7 @@
+id=com.example.himoviehook
+name=HiMovieHook
+version=1.0
+versionCode=1
+description=Hook hmsAT from com.huawei.himovie
+author=YourName
+minSdk=21
